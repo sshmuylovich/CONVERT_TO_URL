@@ -5,7 +5,7 @@
 &nbsp;
  
 ## Install package using
-### `pip install -i https://test.pypi.org/simple/ example-pkg-sshmuylovich`
+### `pip install -i https://test.pypi.org/simple/ convert-to-url-sshmuylovich`
 &nbsp;
  
 ## Import and use the package in Python using

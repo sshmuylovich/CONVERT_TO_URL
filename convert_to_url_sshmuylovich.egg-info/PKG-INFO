@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: convert-to-url-sshmuylovich
+Version: 0.0.1
+Summary: This package converts partial urls into full urls
+Home-page: https://github.com/sshmuylovich/CONVERT_TO_URL
+Author: Sima Shmuylovich, Katie Wimmer, Amy Jiang, Kohana Kapoor
+Author-email: sshmuylovich21@andover.edu
+License: UNKNOWN
+Description: # Convert_To_URL_
+         
+        ## Description
+        ### Convert_To_URL is a library created for CSC 630 at Phillips Academy. It converts partial Email ID URLs by scanning and identifying ".edu" in the provided URLs. This helps to consolidate all the provided information into a single, homogenous format that allows for improved accessibility.
+        &nbsp;
+         
+        ## Install package using
+        ### `pip install -i https://test.pypi.org/simple/ example-pkg-sshmuylovich`
+        &nbsp;
+         
+        ## Import and use the package in Python using
+        ###
+        &nbsp;
+         
+        ## Authors
+        ### Amy Jiang, Sima Shmuylovich, Koki Kapoor, Katie Wimmer
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

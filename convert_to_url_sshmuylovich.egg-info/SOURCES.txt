@@ -1,0 +1,8 @@
+README.md
+setup.py
+FULL_URL/__init__.py
+FULL_URL/main.py
+convert_to_url_sshmuylovich.egg-info/PKG-INFO
+convert_to_url_sshmuylovich.egg-info/SOURCES.txt
+convert_to_url_sshmuylovich.egg-info/dependency_links.txt
+convert_to_url_sshmuylovich.egg-info/top_level.txt
